@@ -131,7 +131,7 @@ The Power BI dashboard provided a comprehensive analysis of Blinkit's sales and 
 
 ## Folder Structure  
 ```plaintext
-|-- data/                 # Raw and cleaned datasets  
+|-- https://github.com/pj2024/Blinkit_DataAnalysis_Dashboard/blob/main/Blinkit%20power%20bi/BlinkIT%20Grocery%20Data.xlsx                # Raw and cleaned datasets  
 |-- visuals/              # Screenshots of Power BI dashboard  
 |-- README.md             # Project documentation  
 |-- blinkit.pbix          # Power BI report file  
